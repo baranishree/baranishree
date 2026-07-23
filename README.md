@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋 I'm Baranishree
 
-<!--
-**baranishree/baranishree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+## 💻 Aspiring Web Developer | ECE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Electronics and Communication Engineering Student  
+💡 Passionate about Web Development & Software Technologies  
+🚀 Exploring Frontend Development and Problem Solving  
+
+---
+
+## 🌱 About Me
+
+✨ I am an ECE student who loves combining electronics knowledge with software development.
+
+🔭 Currently working on:
+- Web Development Projects
+- IoT Based Applications
+- Java Programming
+
+🌱 Learning:
+- React.js
+- Java
+  
+🎯 Goal:
+To become a skilled Full Stack Developer and build impactful solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-orange)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Smart Home Automation
+IoT based automation system for controlling home appliances.
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio website using HTML, CSS and JavaScript.
+
+### 💻 Java Programming Practice
+Collection of coding problems and solutions.
+
+---
+
+## 🏆 Achievements
+
+✨ NPTEL Elite Certificate  
+✨ Technical Symposium Participation  
+✨ IoT & Software Projects
+
+---
+
+## 🎨 Hobbies
+
+🌱 Gardening  
+🎨 Drawing & Painting  
+🧘 Yoga  
+♟️ Chess  
+🌿 Nature Exploration
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/barani-shree-b96831329/
+
+📧 Email: baranisara567@gmail.com
+
+---
+
+⭐ "Code. Create. Learn. Grow."
