@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 💻 Aspiring Web Developer | ECE Student
+## 💻 Aspiring Web Developer
 
 🎓 Electronics and Communication Engineering Student  
 💡 Passionate about Web Development & Software Technologies  
@@ -12,7 +12,7 @@
 
 ## 🌱 About Me
 
-✨ I am an ECE student who loves combining electronics knowledge with software development.
+✨ I am an student who loves combining electronics knowledge with software development.
 
 🔭 Currently working on:
 - Web Development Projects
@@ -52,9 +52,6 @@ IoT based automation system for controlling home appliances.
 ### 🌐 Personal Portfolio Website
 Responsive portfolio website using HTML, CSS and JavaScript.
 
-### 💻 Java Programming Practice
-Collection of coding problems and solutions.
-
 ---
 
 ## 🏆 Achievements
@@ -69,8 +66,7 @@ Collection of coding problems and solutions.
 
 🌱 Gardening  
 🎨 Drawing & Painting  
-🧘 Yoga  
-♟️ Chess  
+🧘 Yoga    
 🌿 Nature Exploration
 
 ---
